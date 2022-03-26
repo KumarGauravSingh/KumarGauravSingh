@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumarGauravSingh
 - 👀 I’m interested in learning new programming skills and techniques
-- 🌱 I’m currently learning kubernetes and JAVA
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me 
 
